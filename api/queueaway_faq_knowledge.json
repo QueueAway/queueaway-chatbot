@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is QueueAway?",
+    "answer": "QueueAway is a virtual queue management system that allows businesses to streamline customer flow and eliminate physical waiting lines. Customers can join a queue from their phone or computer and receive real-time updates until it's their turn."
+  },
+  {
+    "question": "How does QueueAway work?",
+    "answer": "QueueAway replaces physical queues with virtual ones. Businesses set up their queue system through the QueueAway app or dashboard. Customers join the queue remotely, track their wait time, and are notified when to arrive."
+  },
+  {
+    "question": "Do I need to download an app?",
+    "answer": "No. QueueAway works through a browser-based interface, so customers can join a queue using a link or QR code \u2014 no app download required."
+  },
+  {
+    "question": "How do I join a queue?",
+    "answer": "Simply scan the business's QR code or click on their QueueAway link. You\u2019ll enter basic details (like your name or phone number), and you\u2019ll instantly be placed in the queue. You\u2019ll get updates via SMS or online."
+  },
+  {
+    "question": "Will I lose my place if I leave the area?",
+    "answer": "No. With QueueAway, your spot in the virtual queue is secure. You\u2019re free to grab a coffee or walk around \u2014 you\u2019ll receive a notification when it\u2019s nearly your turn."
+  },
+  {
+    "question": "Can I book a spot in advance?",
+    "answer": "Some businesses allow advance bookings. If the option is available, you\u2019ll see it when you access their queue. Otherwise, you can join the queue in real-time."
+  },
+  {
+    "question": "What if I miss my turn?",
+    "answer": "QueueAway typically gives you a grace period (e.g., 3\u20135 minutes). After that, you may be moved down the queue or need to rejoin, depending on the business\u2019s settings."
+  },
+  {
+    "question": "What kind of businesses use QueueAway?",
+    "answer": "QueueAway is used by barbershops, salons, clinics, retail stores, cafes, service centers, and any business that deals with customer queues. It\u2019s flexible and works for both walk-in traffic and appointments."
+  },
+  {
+    "question": "How can I manage queues using QueueAway?",
+    "answer": "Through your QueueAway business dashboard, you can view and manage your customer queue in real time, set queue limits and business hours, send updates to customers automatically, and collect data on wait times and service performance."
+  },
+  {
+    "question": "Can I customize the customer\u2019s experience?",
+    "answer": "Yes! You can personalize queue messages, set time buffers, add branded welcome screens, and choose how customers join \u2014 via QR code, direct link, or staff entry."
+  }
+]
